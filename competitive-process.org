@@ -1,0 +1,6 @@
+1. Identify top competitors in a given domain.
+2. Identify their failures to align with The Competitive Principles (i.e. their vulnerabilities)
+3. Identify ways in which these vulnerabilites could be fixed.
+4. Create something (e.g. an organization) that fixes these vulnerabilties.
+5. Open this process to debate.
+6. Let nature take its course.
